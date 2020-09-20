@@ -10,6 +10,4 @@
 [![compiler: typescript](https://img.shields.io/badge/compiler-🏗%20TypeScript%20-blue.svg?style=flat-square)](https://www.typescriptlang.org/)
 [![UI: react & redux](https://img.shields.io/badge/UI-🎨%20react%20&%20redux-blue.svg?style=flat-square)](https://github.com/facebook/react)
 
-[![image loading...](https://github.com/hilezir/hilezir/raw/master/trade-dashboard-preview.gif)](https://www.notion.so/hilezi/4fe69cd704434ff1b82f0cd48dd219c3)
-
-[![image loading...](https://github.com/hilezir/etoro-better-ui/raw/master/trade-dashboard-real-trading-preview.gif)](https://www.notion.so/hilezi/4fe69cd704434ff1b82f0cd48dd219c3)
+[![image loading...](./Kapture%202020-09-20%20at%2014.18.44.gif)](https://www.notion.so/hilezi/4fe69cd704434ff1b82f0cd48dd219c3)
