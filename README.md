@@ -10,6 +10,7 @@
 [![compiler: typescript](https://img.shields.io/badge/compiler-🏗%20TypeScript%20-blue.svg?style=flat-square)](https://www.typescriptlang.org/)
 [![UI: react & redux](https://img.shields.io/badge/UI-🎨%20react%20&%20redux-blue.svg?style=flat-square)](https://github.com/facebook/react)
 [![i18n: i18next](https://img.shields.io/badge/i18n-🌏%20i18next-default.svg?style=flat-square&colorA=334a5d&colorB=009789)](https://www.i18next.com/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Aqzhyi/etoro-better-ui.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Aqzhyi/etoro-better-ui/context:javascript)
 
 [![image loading...](./Kapture%202020-09-20%20at%2014.18.44.gif)](https://www.notion.so/hilezi/4fe69cd704434ff1b82f0cd48dd219c3)
 
