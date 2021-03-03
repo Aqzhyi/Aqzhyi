@@ -17,4 +17,8 @@
 
 > See how to use
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lOwRyrGncn0/0.jpg)](https://github.com/Aqzhyi/etoro-better-ui#trading-preview)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lOwRyrGncn0/0.jpg)](https://www.notion.so/hilezi/eToro-better-UI-day-trading-helper-enhancement--4fe69cd704434ff1b82f0cd48dd219c3)
+
+# My Personal MT5 EAs, scripts...
+
+[![](./auto-scalping-EA.gif)](https://github.com/Aqzhyi/oh_my_mt5)
