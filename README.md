@@ -21,4 +21,4 @@
 
 # My Personal MT5 EAs, scripts...
 
-[![](./auto-scalping-EA.gif)](https://github.com/Aqzhyi/oh_my_mt5)
+[![](./auto-scalping-EA.gif)](https://www.notion.so/hilezi/MT5-EA-b371c3a746f14c28b53519d77ad87b7c)
