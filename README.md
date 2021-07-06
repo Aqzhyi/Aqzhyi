@@ -1,6 +1,6 @@
 # My Side Project
 
-# Better eToro UI
+# 1. Better eToro UI
 
 > The day trading plugin for etoro
 
@@ -13,13 +13,14 @@
 [![UI: jQuery](https://img.shields.io/badge/UI-🎨%20jQuery-default.svg?style=flat-square&colorA=282c34&colorB=0769ad)](https://jquery.com/)
 [![UI: angularjs](https://img.shields.io/badge/UI-🎨%20angularjs-default.svg?style=flat-square&colorA=282c34&colorB=a6120d)](https://angularjs.org/)
 
----
-
-> See how to use
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lOwRyrGncn0/0.jpg)](https://www.notion.so/hilezi/eToro-better-UI-day-trading-helper-enhancement--4fe69cd704434ff1b82f0cd48dd219c3)
 
-# My Personal MT5 EAs, scripts...
+# 2. MT5 EAs, indicators and scripts...
 
-[![](./EA_NZDUSD.gif)](https://www.notion.so/hilezi/MT5-EA-b371c3a746f14c28b53519d77ad87b7c)
-[![](./mt5-better-trading.gif)](https://www.notion.so/hilezi/MT5-EA-b371c3a746f14c28b53519d77ad87b7c)
+![](./MT5-EA-N-INDICATORS.jpg)
+
+# 3. Algorithmic Trading
+
+WIP
+
+![](./autotrade.png)
