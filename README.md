@@ -1,5 +1,7 @@
 # My Side Project
 
+![fu](./fu.gif)
+
 # 1. Better eToro UI
 
 > The day trading plugin for etoro
